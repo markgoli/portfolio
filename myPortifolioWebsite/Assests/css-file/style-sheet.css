@@ -237,7 +237,16 @@ nav ul li a:hover::after{
 
 /* ------------------ skill-set-section -------- */
 
+.skill-section{
+    background-color: #c04308;
+    margin: 20px 30px;
+    border-radius: 6px;
+}
 
+.skill-section-header{
+    text-align: center;
+
+}
 
 
 
