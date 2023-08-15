@@ -140,6 +140,7 @@ nav ul li a:hover::after{
     border-radius: 6px;
     box-shadow: 0px 2px 15px 2px #0a447a;
     flex-basis: 50%;
+    text-align: center;
 }
 
 
@@ -215,11 +216,12 @@ nav ul li a:hover::after{
     width: 100%;
     border-radius: 15px;
     box-shadow: 0px 2px 15px 2px #0a447a;
+    text-align: center;
 }
 
 .about-col-2 h1{
     padding: 15px 100px;
-    align-items: center;
+    text-align: center;
     font-size: 45px;
     font-weight: 600;
     font-family: 'Poppins';
